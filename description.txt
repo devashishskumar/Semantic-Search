@@ -1,0 +1,1 @@
+A semantic movie search engine using IMDB's Top 1000 dataset. Leverages Sentence Transformers for text embeddings and FAISS for fast vector similarity search. Features a Streamlit web interface for natural language queries, returning movies based on semantic similarity of descriptions. 
